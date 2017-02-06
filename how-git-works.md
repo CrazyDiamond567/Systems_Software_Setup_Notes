@@ -28,5 +28,7 @@ then you have what is called a conflict, and you must edit your file with the ch
 
 The best way to avoid conflicts is to merge the master into your branch before you make changes.
 
+[Reference](https://www.sbf5.com/~cduan/technical/git/)
+
 
 
